@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Raashid's Portfolio"
+title = "Raashid's Portfolio{{< typeit >}}{{< /typeit >}}"
 
 [params]
   displayName = "EN"
