@@ -1,0 +1,4 @@
+baseURL = 'https://raashidsalih.github.io/'
+languageCode = 'en-us'
+title = 'Raashid'
+theme = "blowfish"
