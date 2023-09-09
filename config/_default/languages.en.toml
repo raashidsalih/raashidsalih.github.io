@@ -1,3 +1,7 @@
+#hello this is an example comment
+#
+#
+
 languageCode = "en"
 languageName = "English"
 weight = 1
@@ -11,7 +15,7 @@ title = "Raashid's Portfolio"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Raashid Salih's Portfolio"
-  copyright = "{{< typeit \ntag="h1 hidden">}}{{< /typeit >}}"
+  copyright = "{{< typeit >}}{{< /typeit >}}"
 
 [author]
   name = "Raashid Salih"
