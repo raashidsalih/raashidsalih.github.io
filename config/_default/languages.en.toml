@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "{{< typeit >}}Raashid's Portfolio{{< /typeit >}}"
+title = "Raashid's Portfolio"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "{{< typeit >}}Raashid's Portfolio{{< /typeit >}}"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Raashid Salih's Portfolio"
-  copyright = "2023 Raashid Salih"
+  copyright = "{{< typeit >}}{{< /typeit >}}"
 
 [author]
   name = "Raashid Salih"
