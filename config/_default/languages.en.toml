@@ -11,7 +11,7 @@ title = "Raashid's Portfolio"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Raashid Salih's Portfolio"
-  copyright = "{{< typeit tag="h1 hidden">}}{{< /typeit >}}"
+  # copyright = "{{< typeit >}}{{< /typeit >}}"
 
 [author]
   name = "Raashid Salih"
