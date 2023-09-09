@@ -1,6 +1,7 @@
 +++
 title = 'End to End Customer Churn Data Pipeline'
 date = 2023-09-07T17:03:56+05:30
+Type = 'Project'
 draft = false
 +++
 
