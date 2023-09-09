@@ -10,7 +10,7 @@ title = "Raashid's Portfolio"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Raashid Salih's Portfolio"
+  description = "Raashid Salih's Portfolio{{< typeit >}}{{< /typeit >}}"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
