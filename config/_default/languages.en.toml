@@ -16,7 +16,7 @@ title = "Raashid's Portfolio"
 [author]
   name = "Raashid Salih"
   image = "img/profile.jpeg"
-  headline = "{{< typeit lifeLike=true >}}Making Data Profitable{{< /typeit >}}"
+  headline = "Making Data Profitable"
   bio = "Making Data Profitable"
   links = [
     { email = "mailto:rashidsaleh111@gmail.com" },
