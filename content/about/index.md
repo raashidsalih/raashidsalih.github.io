@@ -42,3 +42,5 @@ Libraries: Pandas, NumPy, SciKit Learn, Pytorch Tabular
 Tools: Alteryx, Azure DevOps, PowerBI, GCP, Dataiku, Git, Bash, PaperSpace Gradient, Heroku, Dash
 
 I am open to career opportunities and would be delighted to discuss how my experiences in the data analytics field can contribute to your organization's success. If that's the case, please feel free to reach out to me.
+{{< typeit >}}
+{{< /typeit >}}
