@@ -26,16 +26,14 @@ heroStyle: background
 Hey there.
 {{< /lead >}}
 
-I am Raashid Salih, and as a CS graduate currently pursuing a postgraduate degree in Analytics, my primary objective is to help your business make data profitable. If you are seeking a dedicated and results-driven professional who can turn your organization's data into a strategic asset, let's connect.
+As a CS graduate currently pursuing a postgraduate degree in Analytics at Georgia Tech, my primary objective is to help your business **make data profitable**. My skill set spans across _Data Engineering, Analytics Engineering, and ML Engineering_. If you are seeking a dedicated and results-driven professional who can turn your organization's data into a strategic asset, let's connect.
 
 I intend to achieve said objective in a number of ways:
--By developing and maintaining the infrastructure (cloud or otherwise) to make data readily available to the departments that require it for analysis.
--By preparing more robust pipelines that facilitate consistent reporting for upper management decision making.
--Finally, I can develop and maintain Machine Learning models that automate tasks and enable departments to achieve greater efficacy.
+- By developing and maintaining the infrastructure (cloud or otherwise) to make data readily available to the departments that require it for analysis.
+- By preparing more robust pipelines that facilitate consistent reporting for upper management decision making.
+- Finally, I can develop and maintain Machine Learning models that automate tasks and enable departments to achieve greater efficacy.
 
-I am rather passionate about the applied data space, especially how modelling and analytics can have a tangible impact to a company's operations beyond just a proof of concept. As a result, my skill set spans across Data Science, Data Engineering, and ML Engineering. You can access my portfolio using the link below:
-
-<https://www.datascienceportfol.io/raashid>
+I am rather passionate about the applied data space, especially how modelling and analytics can have a tangible impact to a company's operations beyond just a proof of concept. As a result, my skill set spans across Data Science, Data Engineering, and ML Engineering. 
 
 Languages: Python, R, Java, C++, MySQL, PL/SQL, JavaScript, HTML/CSS
 
