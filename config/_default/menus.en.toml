@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ name = "Home"
+ pageRef = "content"
+ weight = 5
+
+[[main]]
  name = "Blog"
  pageRef = "posts"
  weight = 10
@@ -26,21 +31,26 @@
  weight = 30
 
 [[main]]
- identifier = "github"
- pre = "github"
- url = "https://github.com/nunocoracao/blowfish"
- weight = 40
+ name = "Resume"
+ url = "https://drive.google.com/file/d/1uViLOIB6LCYQZkWN4GK3hXKD7zQp1q9k/view?usp=sharing"
+ weight = 35
 
 [[main]]
  identifier = "email"
  pre = "email"
- url = "https://github.com/nunocoracao/blowfish"
- weight = 50
+ url = "mailto:rashidsaleh111@gmail.com"
+ weight = 40
 
 [[main]]
  identifier = "linkedin"
  pre = "linkedin"
- url = "https://github.com/nunocoracao/blowfish"
+ url = "https://linkedin.com/in/raashid-salih"
+ weight = 50
+
+[[main]]
+ identifier = "github"
+ pre = "github"
+ url = "https://github.com/raashidsalih"
  weight = 60
 
 # [[main]]
