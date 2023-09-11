@@ -3,6 +3,8 @@ title = 'The Burden of Choice: Models in Synthetic Data Vault'
 date = 2023-09-07T17:03:26+05:30
 draft = false
 tags = ["Article"]
+series = ["Synthetic Data Generation"]
+series_order = 2
 +++
 
 Synthetic Data Vault (SDV) is an open-source Python library that allows users to easily model and sample synthetic data from multiple sources of real data. SDV can handle different types of data, such as tabular, relational, time series, and multi-modal. SDV uses deep learning models to learn the structure and dependencies of the real data and generate realistic synthetic data that can be used for various applications.
