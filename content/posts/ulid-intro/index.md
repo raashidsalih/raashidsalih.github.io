@@ -2,6 +2,7 @@
 title = 'The Superior Primary Key? Introduction to ULID'
 date = 2023-09-11T06:03:26+05:30
 draft = false
+tags = ["Article"]
 +++
 
 In this article, we will explore the concept of ULID, a new type of identifier that aims to overcome some of the limitations of UUID and autoincrement primary key. We will also see how to use ULID in Python with a simple example.
