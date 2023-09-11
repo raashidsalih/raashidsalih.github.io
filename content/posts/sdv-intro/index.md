@@ -8,6 +8,8 @@ draft = false
 
 Synthetic data is data that is artificially created to mimic the characteristics and patterns of real data. Synthetic data can be used for various purposes, such as testing, training, privacy protection, data augmentation, and more. However, generating high-quality synthetic data that preserves the complex relationships and distributions of real data is not an easy task. That's where **Synthetic Data Vault (SDV)** comes in.
 
+**_Please note that this article was written with the assistance of GPT. While I did provide all of the points that I intended to convey, the article is not as tight knit and polished as I'd like. I do believe, however, that this is a somewhat appropriate usecase for GPT and that the major ideas have been imparted. I would essentially like to employ this article as a placeholder until I get the time to do said polishing._**
+
 ## What is Synthetic Data Vault?
 
 Synthetic Data Vault (SDV) is an open-source Python library that allows users to easily model and sample synthetic data from multiple sources of real data. SDV can handle different types of data, such as tabular, relational, time series, and multi-modal. SDV uses deep learning models to learn the structure and dependencies of the real data and generate realistic synthetic data that can be used for various applications.
