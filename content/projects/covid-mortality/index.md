@@ -2,6 +2,7 @@
 title = 'A Model to Predict COVID Mortality Risk From Chest X-Rays'
 date = 2023-09-07T17:04:00+05:30
 draft = false
+tags = ["Article"]
 +++
 
 {{< github repo="raashidsalih/COVID-Mortality" >}}
