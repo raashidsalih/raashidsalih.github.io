@@ -12,7 +12,7 @@
 
 [[main]]
  name = "Home"
- url = "_index.md"
+ pagRef = "/"
  weight = 5
 
 [[main]]
