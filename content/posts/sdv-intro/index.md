@@ -3,6 +3,8 @@ title = 'Synthetic Data Vault: A Powerful Tool for Data Generation'
 date = 2023-09-07T17:03:07+05:30
 draft = false
 tags = ["Article"]
+series = ["Synthetic Data Generation"]
+series_order = 1
 +++
 
 # Synthetic Data Vault: A Powerful Tool for Data Generation
