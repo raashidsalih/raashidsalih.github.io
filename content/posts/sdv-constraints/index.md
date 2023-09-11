@@ -6,6 +6,8 @@ draft = false
 
 Synthetic Data Vault (SDV) is an open-source Python library that allows users to easily model and sample synthetic data from multiple sources of real data. SDV can handle different types of data, such as tabular, relational, time series, and multi-modal. SDV uses deep learning models to learn the structure and dependencies of the real data and generate realistic synthetic data that can be used for various applications.
 
+**_Please note that this article was written with the assistance of GPT. While I did provide all of the points that I intended to convey, the article is not as tight knit and polished as I'd like. I do believe, however, that this is a somewhat appropriate usecase for GPT and that the major ideas have been imparted. I would essentially like to employ this article as a placeholder until I get the time to do said polishing._**
+
 However, SDV may not be able to learn everything from the real data, especially when there are deterministic rules that must be followed by every row of the data. These are patterns and laws that are inherent to the dataset or the domain, and they are unchangeable, no matter what data you input. For example, in a hotel booking dataset, the searched check-in date must always be before the searched check-out date. If SDV does not learn these rules, it may generate synthetic data that violates them, which can reduce the quality and validity of the synthetic data.
 
 To overcome this problem, SDV allows users to input constraints that specify the deterministic rules that the synthetic data must satisfy. Constraints are business logic that can improve the machine learning model and ensure that the synthetic data is consistent and realistic.
