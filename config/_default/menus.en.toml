@@ -12,7 +12,7 @@
 
 [[main]]
  name = "Home"
- url = "https://raashidsalih.github.io/"
+ url = "_index.md"
  weight = 5
 
 [[main]]
