@@ -10,7 +10,7 @@ defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 
 mainSections = ["projects", "posts"]
 # robots = ""
@@ -38,7 +38,7 @@ defaultFeaturedImage = "img/background.jpg" # used as default for featured image
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/background.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 6
   showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = true
