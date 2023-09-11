@@ -35,10 +35,8 @@ I intend to achieve said objective in a number of ways:
 
 I am rather passionate about the applied data space, especially how modelling and analytics can have a tangible impact to a company's operations beyond just a proof of concept.
 
-Languages: Python, R, Java, C++, MySQL, PL/SQL, JavaScript, HTML/CSS
-
-Libraries: Pandas, NumPy, SciKit Learn, Pytorch Tabular
-
-Tools: Alteryx, Azure DevOps, PowerBI, GCP, Dataiku, Git, Bash, PaperSpace Gradient, Heroku, Dash
+| Languages and Databases                                                | Data Engineering and DevOps                                                      | Data Science, Machine Learning and Visualization |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------|
+| Python, R, Java, C++,  JavaScript, HTML/CSS, MySQL, PL/SQL, PostgreSQL | Azure, GCP, Databricks, Spark, Alteryx, Docker, Airflow, dbt, Terraform, FastAPI | Dataiku, FLAML AutoML, Dash, PowerBI, Metabase   |
 
 I am open to career opportunities and would be delighted to discuss how my experiences in the data analytics field can contribute to your organization's success. If that's the case, please feel free to reach out.
