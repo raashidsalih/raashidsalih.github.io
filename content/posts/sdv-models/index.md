@@ -6,6 +6,8 @@ draft = false
 
 Synthetic Data Vault (SDV) is an open-source Python library that allows users to easily model and sample synthetic data from multiple sources of real data. SDV can handle different types of data, such as tabular, relational, time series, and multi-modal. SDV uses deep learning models to learn the structure and dependencies of the real data and generate realistic synthetic data that can be used for various applications.
 
+**_Please note that this article was written with the assistance of GPT. While I did provide all of the points that I intended to convey, the article is not as tight knit and polished as I'd like. I do believe, however, that this is a somewhat appropriate usecase for GPT and that the major ideas have been imparted. I would essentially like to employ this article as a placeholder until I get the time to do said polishing._**
+
 ## What is a synthesizer?
 
 A synthesizer is a machine learning model that can generate synthetic data from a given real data source. A synthesizer can be trained on a specific type of data, such as tabular, relational, time series, or multi-modal. A synthesizer can also be customized and fine-tuned according to the user’s needs and preferences. A synthesizer can sample synthetic data that mimics the characteristics and patterns of the real data.
