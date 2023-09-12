@@ -2,7 +2,7 @@
 title = 'The Significance of Constraints: Synthetic Data Vault'
 date = 2023-09-07T17:03:22+05:30
 draft = false
-tags = ["Article"]
+tags = ["Article", "Series"]
 series = ["Synthetic Data Generation"]
 series_order = 3
 +++
