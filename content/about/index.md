@@ -31,7 +31,7 @@ As a CS graduate currently pursuing a postgraduate degree in Analytics at Georgi
 I intend to achieve said objective in a number of ways:
 - By developing and maintaining the infrastructure (cloud or otherwise) to make data readily available to the departments that require it for analysis.
 - By preparing more robust pipelines that facilitate consistent reporting for upper management decision making.
-- Finally, I can develop and maintain Machine Learning models that automate tasks and enable departments to achieve greater efficacy.
+- Finally, I can create and maintain Machine Learning models that enable departments to make better decisions and operate with more efficiency.
 
 I am rather passionate about the applied data space, especially how modelling and analytics can have a tangible impact to a company's operations beyond just a proof of concept.
 
