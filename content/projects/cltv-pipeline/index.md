@@ -4,6 +4,7 @@ date = 2023-09-14T15:04:00+05:30
 draft = false
 tags = ["Project"]
 +++
+{{< github repo="raashidsalih/azure-dbx-cltv" >}}
 
 An end to end data pipeline that models and visualizes CLTV (Customer Lifetime Value) and customer segmentation. The project seeks to employ Azure Databricks and other Azure services as its architectural basis. It is currently a work in progress, but the proposed architecure is detailed below. This has been adapted from Microsoft's [Modern analytics architecture with Azure Databricks solution](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture).
 
