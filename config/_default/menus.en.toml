@@ -32,7 +32,7 @@
 
 [[main]]
  name = "Resume"
- pageRef = "https://github.com/raashidsalih/raashidsalih.github.io/blob/master/pdf/Raashid-Salih-Resume.pdf?raw=true"
+ url = "https://github.com/raashidsalih/raashidsalih.github.io/blob/master/pdf/Raashid-Salih-Resume.pdf?raw=true"
  weight = 35
 
 [[main]]
