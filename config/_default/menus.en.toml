@@ -32,7 +32,7 @@
 
 [[main]]
  name = "Resume"
- url = "https://github.com/raashidsalih/raashidsalih.github.io/blob/master/pdf/Raashid-Salih-Resume.pdf?raw=true"
+ url = "https://nbviewer.org/github/raashidsalih/raashidsalih.github.io/blob/master/pdf/Raashid-Salih-Resume.pdf"
  weight = 35
 
 [[main]]
