@@ -1,5 +1,5 @@
 +++
-title = 'Data Pipeline for CLTV and Customer Segmentation Analysis Using Azure Services'
+title = 'How I Architected CLTV and Customer Segmentation Analytics with Azure'
 date = 2023-09-14T15:04:00+05:30
 draft = false
 tags = ["Project"]
