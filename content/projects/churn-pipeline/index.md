@@ -1,5 +1,5 @@
 +++
-title = 'End to End Customer Churn Data Pipeline'
+title = 'How I Implemented a Complete Churn Analytics Solution'
 date = 2023-09-07T17:03:56+05:30
 draft = false
 tags = ["Project"]
@@ -39,4 +39,4 @@ Almost all of the services above run in their own docker containers, as seen in 
 
  1. Keep in mind that predicting customer churn is a rather sophisticated use case and is difficult to get right. AutoML was only employed to obtain a viable baseline model, and this is how it should be applied most of the time. Check out [Fighting Churn with Data](https://www.amazon.com/Fighting-Churn-Data-Carl-Gold/dp/161729652X) for a more comprehensive outlook on modelling customer churn.
  2. The original dataset has been transformed and [can be found here](https://github.com/raashidsalih/churn-pipeline/tree/main/source_data). This is the dataset the models have been trained on.
- 3. As mentioned earlier, the various elements which comprise this project have tried to be documented. Most files should have accompanying comments to facilitate understanding, and more high level system design justifications can be found in the README below.
+ 3. As mentioned earlier, the various elements which comprise this project have tried to be documented. Most files should have accompanying comments to facilitate understanding, and more high level system design justifications can be found in the README.
